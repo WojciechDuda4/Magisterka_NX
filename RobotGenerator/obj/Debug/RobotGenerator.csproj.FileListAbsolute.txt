@@ -1,0 +1,7 @@
+c:\Users\diurda\Documents\Visual Studio 2012\Projects\RobotGenerator\RobotGenerator\bin\Debug\RobotGenerator.dll
+c:\Users\diurda\Documents\Visual Studio 2012\Projects\RobotGenerator\RobotGenerator\bin\Debug\RobotGenerator.pdb
+c:\Users\diurda\Documents\Visual Studio 2012\Projects\RobotGenerator\RobotGenerator\bin\Debug\RobotGeneratorWizard.dll
+c:\Users\diurda\Documents\Visual Studio 2012\Projects\RobotGenerator\RobotGenerator\bin\Debug\RobotGeneratorWizard.pdb
+c:\Users\diurda\Documents\Visual Studio 2012\Projects\RobotGenerator\RobotGenerator\obj\Debug\RobotGenerator.csprojResolveAssemblyReference.cache
+c:\Users\diurda\Documents\Visual Studio 2012\Projects\RobotGenerator\RobotGenerator\obj\Debug\RobotGenerator.dll
+c:\Users\diurda\Documents\Visual Studio 2012\Projects\RobotGenerator\RobotGenerator\obj\Debug\RobotGenerator.pdb
